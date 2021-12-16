@@ -5,3 +5,6 @@
 3. Created a new branch
 4. Edited a file
 5. Pushed changes back
+6. Swap back to new branch
+7. changes
+8. ...
